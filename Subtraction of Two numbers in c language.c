@@ -2,7 +2,7 @@
 int main()
 {
   int a,b,minus=0;
-  printf("enter any two numbers\n");
+  printf("Enter any two numbers\n");
   scanf("%d",&a);
   scanf("%d",&b);
   minus=a-b;
